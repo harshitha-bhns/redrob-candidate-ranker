@@ -1,0 +1,5 @@
+# Redrob Candidate Ranker — Dependencies
+# Pure Python standard library only. No external packages required for ranking.
+# The packages below are only needed for the Streamlit sandbox demo.
+
+streamlit>=1.32.0
