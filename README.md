@@ -51,8 +51,7 @@ Five scoring components, combined into a final score:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/redrob-ranker.git
-cd redrob-ranker
+git clone https://github.com/harshitha-bhns/redrob-candidate-ranker.git
 ```
 
 ### 2. Install dependencies
