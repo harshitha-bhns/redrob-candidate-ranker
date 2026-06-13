@@ -1,6 +1,6 @@
 # Intelligent Candidate Ranking System
 ### Redrob AI Hackathon 2026 — Data & AI Challenge
-Live Demo: https://redrob-candidate-ranker-nfeszihhnb48jqxcw8yvs3n.streamlit.app
+Live Demo:(https://redrob-candidate-ranker-nfeszhhnb48jqxcw8yvs3n.streamlit.app)
 
 A rule-based + weighted scoring system that ranks 100,000 candidates against a Senior AI Engineer job description — the way a great recruiter would, not by matching keywords.
 
